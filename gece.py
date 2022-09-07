@@ -1,5 +1,5 @@
 #################################
-# Yarasa Tagger Bot #
+# Bot #
 #################################
 # Repo Sahibi - xtq067 
 # Telegram - t.me/YarasaMMC
